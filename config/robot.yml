@@ -1,0 +1,10 @@
+name: 'Bender'
+mention_name: '@bender'
+hook_forward_default_room: '#general'
+alias: 'bender'
+locale: :es
+port: 8080
+adapter: :slack
+admins:
+  - 1
+  - 2

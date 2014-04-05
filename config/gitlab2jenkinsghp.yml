@@ -1,0 +1,6 @@
+room:                   '#test'
+url_gitlab:             'http://gitlab.bbrmobile.me'
+private_token_gitlab:   'eisKhJeT43kyTMLyGVsq'
+group:                  'bbrmobile'
+url_jenkins:            'http://jenkins.bbrmobile.me'
+user_agent:             'lita-companion'
